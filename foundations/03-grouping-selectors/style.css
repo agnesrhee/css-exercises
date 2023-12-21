@@ -1,0 +1,14 @@
+.same{
+    font-size: 50px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.same.one{
+    background-color: black;
+    color: white;
+}
+
+.same.two{
+    background-color: #ffff00;
+}
+
